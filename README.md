@@ -1,6 +1,6 @@
 # Pizza Ordering Web App
 
-![PizzaMenu](https://github.com/guilhermeSilva96/PizzaMenu/assets/139381851/d613fa3f-ecf1-4e78-ae33-75ed0099ef9e)
+![PizzaMenu](https://github.com/guilhermeSilva96/PizzaMenu/assets/139381851/cb13c26a-dfb5-4253-93dc-023eaafdec63)
 
 
 This is a simple web application for a pizza restaurant, built using React. In this README, we'll explore the JavaScript mechanics and fundamentals used in the code.
